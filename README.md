@@ -17,7 +17,7 @@ Interactive ML-powered calculator for estimating apartment prices in Russia.
 
 ### Local Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/apartment-price-calculator.git
+git clone https://github.com/imnikitos11/apartment-price-calculator.git
 cd apartment-price-calculator
 pip install -r requirements.txt
 marimo run letsgo.py
